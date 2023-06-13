@@ -10,7 +10,7 @@ Here I am
 
 Hello c'est moi on cool new website made with [Jekyll and Github Pages](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/).
 
-This website is very much under construction. In the meantime, find my deets at [read.cv/shirleywang](read.cv/shirleywang)
+This website is very much under construction. In the meantime, find my deets at [read.cv/shirleywang](https://read.cv/shirleywang)
 
 ### Contact me
 
